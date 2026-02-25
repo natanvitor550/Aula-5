@@ -8,4 +8,19 @@ header{
 }
 .linha{
     background-color: gray;
+    padding: 1px;
+}
+img{
+    width: 15px;
+    height: 15px;
+}
+button{
+    height: 28px;
+    align-items: center;
+    display: fçe;
+}
+#linhab{
+    align-items: center;
+    justify-items:flex;
+    height: 50px;
 }
