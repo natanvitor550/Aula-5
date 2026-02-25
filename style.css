@@ -1,6 +1,11 @@
 header{
     background-color: gray;
+    padding: 1px;
 }
-ul{
-    background-color: yellow;
+#amarelo{
+    width: 1896px;
+    height: 40px;
+}
+.linha{
+    background-color: gray;
 }
