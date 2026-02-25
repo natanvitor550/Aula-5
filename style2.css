@@ -1,0 +1,19 @@
+#robo{
+    width: 260px;
+    height: 260px;
+
+}
+.menu
+
+#menu_robo {
+    background-color: rgb(126, 169, 224);
+    padding: 100px;
+    border-radius: 40px;
+    margin: 5px;
+
+}
+body{
+    background-color: rgb(194, 196, 196);
+    padding: 1px;
+}
+
