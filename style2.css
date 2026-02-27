@@ -4,7 +4,7 @@
     padding:100px;
     margin-right: 600px;
     display:flex;
-    background-color:rgb(108, 188, 241);
+    background-color:rgb(177, 204, 221);
     border-radius:30px;}
 #robo{
     width: 260px;
@@ -23,7 +23,7 @@
     border-radius:30px;
 }
 body{
-    background-color: rgb(194, 196, 196);
+    background-color: rgb(255, 255, 255);
     padding: 1px;
     display:flex;
 }
